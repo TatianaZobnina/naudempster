@@ -1,5 +1,7 @@
 # dump
 
-пример применения алгоритма Демпстера
+Пример применения алгоритма Демпстера
 
-необходимо установить pip install dempster_algorithm
+Необходимо установить пакет dempster_algorithm:
+
+pip install dempster_algorithm
