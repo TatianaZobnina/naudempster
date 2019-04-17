@@ -2,6 +2,6 @@
 
 Пример применения алгоритма Демпстера
 
-Необходимо установить пакет dempster_algorithm:
+Необходимо установить python-пакет dempster_algorithm:
 
 pip install dempster_algorithm
